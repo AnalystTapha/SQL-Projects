@@ -12,6 +12,6 @@ The EverMart Transactions Dataset consists of e-commerce transaction data, inclu
 
 The Space Mission Budget Dataset contains details about space missions, their budgets, destination, and programs. It provides insights into the financial investment of space programs.
 
-**EU Emissions Dataset**
+**EU Emissions Dataset**:
 
 The EU Emissions Dataset contains carbon emissions data for EU-27 and EU-28 across multiple years. It provides insights into the environmental impact and progress in reducing greenhouse gas emissions over time.
