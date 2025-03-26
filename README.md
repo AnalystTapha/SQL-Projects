@@ -3,6 +3,7 @@
 This repository showcases a diverse range of SQL projects, including real-world case studies, problem-solving challenges and  analytics tasks—all crafted to highlight my expertise in SQL.
 
 **Overview**
+
 **EverMart Transactions Dataset**:
 
 The EverMart Transactions Dataset consists of e-commerce transaction data, including customer purchases, order details, and product information. The goal is to analyze customer spending behavior and sales trends.
